@@ -1,0 +1,13 @@
+* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+   Variables: Una variable es una palabra que tiene un valor, antes de escribir esta palabra hay que escribir "let" o "const" , luego de la palabra un "=" y luego un valor que puede ser "string"(letras en ""), numeros(1,2,3,4), booleanos ( solo dos posibles: true( verdadero) y false(falso)).
+
+   String: Es un tipo de dato que exite en este lenguaje, y es una cadena de caracteres que siempre debe escrbirse adentro de una comillas "". Ejemplo "casa", "perro", "123".
+
+   Funciones: Es un mecanismo para hacer funcionar un sistema. Para que funcione este mecanismo necesita datos que se llaman "argumentos" y se escriben entre parentesis "()" , puede ser uno o mas. Tambien en algun momento es necesario detener este mecanismo, para que no este siempre funcionando y eso lo hacemos escrbiendo la palabra "return", que significa "devolver", entonces detendra el mecanismo que esta funcionando y nos devolvera algo.
+
+   If: Un IF se usa dentro de la funcion (mecanismo), y nos servira para hacer una pregunta y que el mecanismo pueda resolver y decidir mas facil entre dos o mas posibilidades. Esta pregunta que se hara el IF en el mecanismo tiene dos respuestas "true" y "false", nosotros podremos hacer que si es true el mecanismo hago algo y si es false haga otra cosa.
